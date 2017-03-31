@@ -1,7 +1,7 @@
 group 'com.github.talosdev'
 
 apply plugin: 'java'
-apply from: 'constants.gradle'
+//apply from: 'constants.gradle'
 apply plugin: 'maven'
 
 sourceCompatibility = 1.7
